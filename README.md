@@ -101,14 +101,14 @@ I hold industry certifications spanning red team operations, blue team defense, 
 
 ---
 
-## ⚔️ OFFENSIVE SECURITY
+## OFFENSIVE SECURITY
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,python" />
 </p>
 
-| | Tools |
-|---|---|
+| Tools |
+|---|
 | **Nmap** |
 | **Burp Suite** |
 | **Metasploit Framework** |
@@ -133,14 +133,14 @@ I hold industry certifications spanning red team operations, blue team defense, 
 
 ---
 
-## 🌐 NETWORK SECURITY
+## NETWORK SECURITY
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash" />
 </p>
 
-| | Tools |
-|---|---|
+| Tools |
+|---|
 | **Wireshark** |
 | **TShark** |
 | **Nmap** |
@@ -157,45 +157,10 @@ I hold industry certifications spanning red team operations, blue team defense, 
 
 ---
 
-## ☁️ AWS CLOUD SECURITY
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws" />
-</p>
-
-| | Tools / Services |
-|---|---|
-| **AWS IAM** |
-| **AWS IAM Access Analyzer** |
-| **Amazon GuardDuty** |
-| **AWS CloudTrail** |
-| **Amazon CloudWatch** |
-| **AWS KMS** |
-| **AWS Secrets Manager** |
-| **AWS WAF** |
-| **Amazon VPC** |
-| **AWS Security Groups** |
-| **AWS Network ACLs** |
-| **AWS STS** |
-| **AWS Systems Manager** |
-| **Amazon Inspector** |
-| **AWS Security Hub** |
-| **AWS Organizations** |
-| **AWS Config** |
-| **AWS Certificate Manager** |
-| **Amazon S3** |
-| **AWS Lambda** |
-| **Amazon API Gateway** |
-| **Application Load Balancer** |
-| **AWS Firewall Manager** |
-| **AWS CloudFormation** |
-
----
-
 ## CLOUD PENETRATION TESTING
 
-| | Tools |
-|---|---|
+|  Tools|
+|---|
 | **Pacu** |
 | **ScoutSuite** |
 | **Prowler** |
@@ -213,8 +178,8 @@ I hold industry certifications spanning red team operations, blue team defense, 
 
 ## SIEM & SECURITY MONITORING
 
-| | Tools |
-|---|---|
+| Tools |
+|---|
 | **Splunk** |
 | **Wazuh** |
 | **Elastic Security** |
@@ -232,10 +197,10 @@ I hold industry certifications spanning red team operations, blue team defense, 
 
 ---
 
-## 🔬 VULNERABILITY ASSESSMENT
+## VULNERABILITY ASSESSMENT
 
-| | Tools |
-|---|---|
+| Tools |
+|---|
 | **Nessus** |
 | **OpenVAS / Greenbone** |
 | **Burp Suite** |
@@ -251,10 +216,10 @@ I hold industry certifications spanning red team operations, blue team defense, 
 
 ---
 
-## 🌐 WEB APPLICATION SECURITY
+## WEB APPLICATION SECURITY
 
-| | Tools |
-|---|---|
+| Tools |
+|---|
 | **Burp Suite** |
 | **OWASP ZAP** |
 | **sqlmap** |
@@ -273,8 +238,8 @@ I hold industry certifications spanning red team operations, blue team defense, 
 
 ## DIGITAL FORENSICS
 
-| | Tools |
-|---|---|
+| Tools |
+|---|
 | **Autopsy** |
 | **The Sleuth Kit** |
 | **Volatility** |
@@ -289,8 +254,8 @@ I hold industry certifications spanning red team operations, blue team defense, 
 
 ## MALWARE ANALYSIS
 
-| | Tools |
-|---|---|
+| Tools |
+|---|
 | **Ghidra** |
 | **IDA Free** |
 | **x64dbg** |
@@ -307,125 +272,125 @@ I hold industry certifications spanning red team operations, blue team defense, 
 
 ##  CRYPTOGRAPHY & PASSWORD SECURITY
 
-| | Tools |
-|---|---|
-| 🔑 | **Hashcat** |
-| 🔐 | **John the Ripper** |
-| 🧪 | **CyberChef** |
-| 🔏 | **OpenSSL** |
-| 🔑 | **GPG** |
-| 🧬 | **Hash-Identifier** |
-| 🔎 | **Haiti** |
-| 🧰 | **CeWL** |
+| Tools |
+|---|
+| **Hashcat** |
+| **John the Ripper** |
+| **CyberChef** |
+| **OpenSSL** |
+| **GPG** |
+| **Hash-Identifier** |
+| **Haiti** |
+| **CeWL** |
 
 ---
 
-## 🧑‍💻 IDENTITY & ACCESS SECURITY
+## IDENTITY & ACCESS SECURITY
 
-| | Tools |
-|---|---|
-| 🔐 | **AWS IAM** |
-| 🪪 | **AWS STS** |
-| 🩸 | **BloodHound** |
-| 🧰 | **Impacket** |
-| 🐘 | **NetExec** |
-| 🛡️ | **Responder** |
-| 🔑 | **Mimikatz** |
-| 🧭 | **PowerView** |
-| 🏢 | **Active Directory** |
-| 🔎 | **LDAPSearch** |
-| 🧪 | **Kerbrute** |
-| 🔐 | **Samba** |
+| Tools |
+|---|
+| **AWS IAM** |
+| **AWS STS** |
+| **BloodHound** |
+| **Impacket** |
+| **NetExec** |
+| **Responder** |
+| **Mimikatz** |
+| **PowerView** |
+| **Active Directory** |
+| **LDAPSearch** |
+| **Kerbrute** |
+| **Samba** |
 
 ---
 
-## 🛡️ DEVSECOPS
+## DEVSECOPS
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github,git,docker,kubernetes,terraform,aws,jenkins" />
 </p>
 
-| | Tools |
-|---|---|
-| 🐳 | **Docker** |
-| ☸️ | **Kubernetes** |
-| 🏗️ | **Terraform** |
-| 🔧 | **Jenkins** |
-| 🔄 | **GitHub Actions** |
-| ☁️ | **AWS CodePipeline** |
-| 🔨 | **AWS CodeBuild** |
-| 📦 | **Amazon ECR** |
-| 🔍 | **Trivy** |
-| 🧬 | **Semgrep** |
-| 🔐 | **Gitleaks** |
-| 🛡️ | **Checkov** |
-| 🔎 | **tfsec** |
-| 🧪 | **SonarQube** |
-| 🔐 | **Snyk** |
-| 📋 | **OWASP Dependency-Check** |
+| Tools |
+|---|
+| **Docker** |
+| **Kubernetes** |
+| **Terraform** |
+| **Jenkins** |
+| **GitHub Actions** |
+| **AWS CodePipeline** |
+| **AWS CodeBuild** |
+| **Amazon ECR** |
+| **Trivy** |
+| **Semgrep** |
+| **Gitleaks** |
+| **Checkov** |
+| **tfsec** |
+| **SonarQube** |
+| **Snyk** |
+| **OWASP Dependency-Check** |
 
 ---
 
-## 🐳 CONTAINER & KUBERNETES SECURITY
+## CONTAINER & KUBERNETES SECURITY
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
 </p>
 
-| | Tools |
-|---|---|
-| 🐳 | **Docker** |
-| ☸️ | **Kubernetes** |
-| 🔍 | **Trivy** |
-| 🛡️ | **Falco** |
-| 🔐 | **Kube-bench** |
-| 🔎 | **Kube-hunter** |
-| 🧰 | **Kubescape** |
-| 🛡️ | **Kyverno** |
-| 🔐 | **OPA / Gatekeeper** |
-| 📦 | **Amazon ECR** |
-| ⚙️ | **Amazon ECS** |
-| ☁️ | **AWS Fargate** |
+| Tools |
+|---|
+| **Docker** |
+| **Kubernetes** |
+| **Trivy** |
+| **Falco** |
+| **Kube-bench** |
+| **Kube-hunter** |
+| **Kubescape** |
+| **Kyverno** |
+| **OPA / Gatekeeper** |
+| **Amazon ECR** |
+| **Amazon ECS** |
+| **AWS Fargate** |
 
 ---
 
-## 🏗️ INFRASTRUCTURE SECURITY
+## INFRASTRUCTURE SECURITY
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=terraform,ansible,aws,linux" />
 </p>
 
-| | Tools |
-|---|---|
-| 🏗️ | **Terraform** |
-| ☁️ | **AWS CloudFormation** |
-| 🔐 | **Checkov** |
-| 🛡️ | **tfsec** |
-| 🔎 | **Terrascan** |
-| 🧪 | **InSpec** |
-| ⚙️ | **Ansible** |
-| 🐧 | **Lynis** |
-| 🔐 | **OpenSCAP** |
+| Tools |
+|---|
+| **Terraform** |
+| **AWS CloudFormation** |
+| **Checkov** |
+| **tfsec** |
+| **Terrascan** |
+| **InSpec** |
+| **Ansible** |
+| **Lynis** |
+| **OpenSCAP** |
 
 ---
 
-## 🔎 OSINT & RECONNAISSANCE
+## OSINT & RECONNAISSANCE
 
-| | Tools |
-|---|---|
-| 🕵️ | **Maltego** |
-| 🌐 | **theHarvester** |
-| 🔎 | **Sherlock** |
-| 🛰️ | **Amass** |
-| 🕸️ | **Subfinder** |
-| 🔍 | **Assetfinder** |
-| 🌐 | **SpiderFoot** |
-| 🧭 | **Recon-ng** |
-| 📡 | **Shodan** |
-| 🔎 | **Censys** |
-| 🗺️ | **WHOIS** |
-| 🌐 | **DNSRecon** |
-| 🔎 | **DNSdumpster** |
+| Tools |
+|---|
+| **Maltego** |
+| **theHarvester** |
+| **Sherlock** |
+| **Amass** |
+| **Subfinder** |
+| **Assetfinder** |
+| **SpiderFoot** |
+| **Recon-ng** |
+| **Shodan** |
+| **Censys** |
+| **WHOIS** |
+| **DNSRecon** |
+| **DNSdumpster** |
 
 ---
 
@@ -435,40 +400,38 @@ I hold industry certifications spanning red team operations, blue team defense, 
   <img src="https://skillicons.dev/icons?i=linux,bash,python" />
 </p>
 
-| | Tools |
-|---|---|
-| 🐧 | **Kali Linux** |
-| 🦜 | **Parrot Security OS** |
-| 🔐 | **AppArmor** |
-| 🛡️ | **SELinux** |
-| 🔥 | **iptables** |
-| 🧱 | **nftables** |
-| 🔎 | **Lynis** |
-| 📡 | **tcpdump** |
-| 🦈 | **Wireshark** |
-| 🔌 | **Netcat** |
-| 🔐 | **OpenSSL** |
-| 🧰 | **Fail2ban** |
+| Tools |
+|---|
+| **Kali Linux** |
+| **Parrot Security OS** |
+| **AppArmor** |
+| **SELinux** |
+| **iptables** |
+| **nftables** |
+| **Lynis** |
+| **tcpdump** |
+| **Wireshark** |
+| **Netcat** |
+| **OpenSSL** |
+| **Fail2ban** |
 
 ---
 
-## 📡 WIRELESS SECURITY
+## WIRELESS SECURITY
 
-| | Tools |
-|---|---|
-| 📡 | **Aircrack-ng** |
-| 🛰️ | **Kismet** |
-| 🔎 | **Airodump-ng** |
-| 💉 | **Aireplay-ng** |
-| 🧪 | **Airgeddon** |
-| 📶 | **Wifite** |
-| 🔐 | **Bettercap** |
-| 🧰 | **hcxdumptool** |
-| 🔑 | **hcxtools** |
+| Tools |
+|---|
+| **Aircrack-ng** |
+| **Kismet** |
+| **Airodump-ng** |
+| **Aireplay-ng** |
+| **Airgeddon** |
+| **Wifite** |
+| **Bettercap** |
+| **hcxdumptool** |
+| **hcxtools** |
 
 ---
-
-
 
 
 ###  Certifications
