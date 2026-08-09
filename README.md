@@ -164,13 +164,6 @@ I hold industry certifications spanning red team operations, blue team defense, 
 
 ---
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=R0C0d6&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Roland's GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=R0C0d6&theme=dark&hide_border=true" alt="Roland's GitHub Streak" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0C0d6&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165"/>
-
 <br><br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=R0C0d6&theme=darkhub&no-frame=true&row=1&column=6" alt="Trophies" />
