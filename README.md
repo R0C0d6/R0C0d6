@@ -4,7 +4,6 @@
 
 <br>
 
-
 <i>"Live as if you were to die tomorrow. Learn as if you were to live forever." - Mahatma Gandhi</i>
 
 <br><br>
@@ -94,10 +93,6 @@ I'm a cybersecurity consultant and CTO with an MSc in Computer Science from the 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=800&lines=CYBERSECURITY+TOOLKIT;OFFENSIVE+SECURITY;DEFENSIVE+SECURITY;CLOUD+SECURITY;NETWORK+SECURITY;DEVSECOPS;SECURITY+RESEARCH" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,aws,docker,kubernetes,terraform,git,github&perline=9" />
-</p>
-
 ---
 
 ## OFFENSIVE SECURITY
@@ -106,29 +101,23 @@ I'm a cybersecurity consultant and CTO with an MSc in Computer Science from the 
   <img src="https://skillicons.dev/icons?i=linux,bash,python" />
 </p>
 
-| Tools |
-|---|
-| **Nmap** |
-| **Burp Suite** |
-| **Metasploit Framework** |
-| **sqlmap** |
-| **Nikto** |
-| **Gobuster** |
-| **Hydra** |
-| **John the Ripper** |
-| **Hashcat** |
-| **Netcat** |
-| **Responder** |
-| **BloodHound** |
-| **Impacket** |
-| **NetExec** |
-| **Mimikatz** |
-| **Aircrack-ng** |
-| **Enum4linux** |
-| **Amass** |
-| **Subfinder** |
-| **httpx** |
-| **Masscan** |
+<p align="center">
+  <img src="https://nmap.org/images/nmap-logo-256x256.png" height="44" alt="Nmap" title="Nmap" />
+  <img src="https://api.iconify.design/simple-icons/burpsuite.svg?height=44&color=%23FF6633" height="44" alt="Burp Suite" title="Burp Suite" />
+  <img src="https://api.iconify.design/simple-icons/metasploit.svg?height=44&color=%232596CD" height="44" alt="Metasploit Framework" title="Metasploit Framework" />
+  <img src="https://github.com/sqlmapproject.png?size=200" height="44" alt="sqlmap" title="sqlmap" />
+  <img src="https://github.com/sullo.png?size=200" height="44" alt="Nikto" title="Nikto" />
+  <img src="https://github.com/openwall.png?size=200" height="44" alt="John the Ripper" title="John the Ripper" />
+  <img src="https://api.iconify.design/simple-icons/hashcat.svg?height=44&color=%23000000" height="44" alt="Hashcat" title="Hashcat" />
+  <img src="https://github.com/SpecterOps.png?size=200" height="44" alt="BloodHound" title="BloodHound" />
+  <img src="https://github.com/fortra.png?size=200" height="44" alt="Impacket" title="Impacket" />
+  <img src="https://github.com/Pennyw0rth.png?size=200" height="44" alt="NetExec" title="NetExec" />
+  <img src="https://github.com/gentilkiwi.png?size=200" height="44" alt="Mimikatz" title="Mimikatz" />
+  <img src="https://github.com/aircrack-ng.png?size=200" height="44" alt="Aircrack-ng" title="Aircrack-ng" />
+  <img src="https://github.com/owasp-amass.png?size=200" height="44" alt="Amass" title="Amass" />
+  <img src="https://raw.githubusercontent.com/projectdiscovery/subfinder/main/static/subfinder-logo.png" height="44" alt="Subfinder" title="Subfinder" />
+  <img src="https://raw.githubusercontent.com/projectdiscovery/httpx/main/static/httpx-logo.png" height="44" alt="httpx" title="httpx" />
+</p>
 
 ---
 
@@ -138,168 +127,132 @@ I'm a cybersecurity consultant and CTO with an MSc in Computer Science from the 
   <img src="https://skillicons.dev/icons?i=linux,bash" />
 </p>
 
-| Tools |
-|---|
-| **Wireshark** |
-| **TShark** |
-| **Nmap** |
-| **tcpdump** |
-| **Netcat** |
-| **Scapy** |
-| **Zeek** |
-| **Suricata** |
-| **Snort** |
-| **Masscan** |
-| **Traceroute** |
-| **iftop** |
-| **nload** |
+<p align="center">
+  <img src="https://api.iconify.design/simple-icons/wireshark.svg?height=44&color=%231679A7" height="44" alt="Wireshark" title="Wireshark" />
+  <img src="https://nmap.org/images/nmap-logo-256x256.png" height="44" alt="Nmap" title="Nmap" />
+  <img src="https://github.com/secdev.png?size=200" height="44" alt="Scapy" title="Scapy" />
+  <img src="https://github.com/zeek.png?size=200" height="44" alt="Zeek" title="Zeek" />
+  <img src="https://github.com/OISF.png?size=200" height="44" alt="Suricata" title="Suricata" />
+  <img src="https://api.iconify.design/simple-icons/snort.svg?height=44&color=%23FF3D00" height="44" alt="Snort" title="Snort" />
+</p>
 
 ---
 
 ## CLOUD PENETRATION TESTING
 
-|  Tools|
-|---|
-| **Pacu** |
-| **ScoutSuite** |
-| **Prowler** |
-| **CloudMapper** |
-| **CloudFox** |
-| **Steampipe** |
-| **Trivy** |
-| **Cartography** |
-| **Nmap** |
-| **S3Scanner** |
-| **Cloudsplaining** |
-| **Enumerate-IAM** |
+<p align="center">
+  <img src="https://github.com/RhinoSecurityLabs.png?size=200" height="44" alt="Pacu" title="Pacu" />
+  <img src="https://github.com/nccgroup.png?size=200" height="44" alt="ScoutSuite" title="ScoutSuite" />
+  <img src="https://github.com/prowler-cloud.png?size=200" height="44" alt="Prowler" title="Prowler" />
+  <img src="https://github.com/turbot.png?size=200" height="44" alt="Steampipe" title="Steampipe" />
+  <img src="https://api.iconify.design/simple-icons/trivy.svg?height=44&color=%231904DA" height="44" alt="Trivy" title="Trivy" />
+  <img src="https://nmap.org/images/nmap-logo-256x256.png" height="44" alt="Nmap" title="Nmap" />
+</p>
 
 ---
 
 ## SIEM & SECURITY MONITORING
 
-| Tools |
-|---|
-| **Splunk** |
-| **Wazuh** |
-| **Elastic Security** |
-| **ELK Stack** |
-| **Kibana** |
-| **Elasticsearch** |
-| **Logstash** |
-| **Zeek** |
-| **Suricata** |
-| **Snort** |
-| **Amazon CloudWatch** |
-| **AWS CloudTrail** |
-| **Amazon GuardDuty** |
-| **AWS Security Hub** |
+<p align="center">
+  <img src="https://api.iconify.design/logos/splunk.svg?height=44" height="44" alt="Splunk" title="Splunk" />
+  <img src="https://github.com/wazuh.png?size=200" height="44" alt="Wazuh" title="Wazuh" />
+  <img src="https://api.iconify.design/simple-icons/elastic.svg?height=44&color=%23005571" height="44" alt="Elastic Security" title="Elastic Security" />
+  <img src="https://api.iconify.design/simple-icons/elasticstack.svg?height=44&color=%23005571" height="44" alt="ELK Stack" title="ELK Stack" />
+  <img src="https://api.iconify.design/logos/kibana.svg?height=44" height="44" alt="Kibana" title="Kibana" />
+  <img src="https://api.iconify.design/logos/elasticsearch.svg?height=44" height="44" alt="Elasticsearch" title="Elasticsearch" />
+  <img src="https://api.iconify.design/logos/logstash.svg?height=44" height="44" alt="Logstash" title="Logstash" />
+  <img src="https://github.com/zeek.png?size=200" height="44" alt="Zeek" title="Zeek" />
+  <img src="https://github.com/OISF.png?size=200" height="44" alt="Suricata" title="Suricata" />
+  <img src="https://api.iconify.design/simple-icons/snort.svg?height=44&color=%23FF3D00" height="44" alt="Snort" title="Snort" />
+  <img src="https://api.iconify.design/simple-icons/amazoncloudwatch.svg?height=44&color=%23FF4F8B" height="44" alt="Amazon CloudWatch" title="Amazon CloudWatch" />
+  <img src="https://api.iconify.design/logos/aws-cloudtrail.svg?height=44" height="44" alt="AWS CloudTrail" title="AWS CloudTrail" />
+</p>
 
 ---
 
 ## VULNERABILITY ASSESSMENT
 
-| Tools |
-|---|
-| **Nessus** |
-| **OpenVAS / Greenbone** |
-| **Burp Suite** |
-| **Nikto** |
-| **Nuclei** |
-| **Nmap** |
-| **sqlmap** |
-| **OWASP ZAP** |
-| **Qualys** |
-| **Trivy** |
-| **Lynis** |
-| **Semgrep** |
+<p align="center">
+  <img src="https://github.com/tenable.png?size=200" height="44" alt="Nessus" title="Nessus" />
+  <img src="https://github.com/greenbone.png?size=200" height="44" alt="OpenVAS / Greenbone" title="OpenVAS / Greenbone" />
+  <img src="https://api.iconify.design/simple-icons/burpsuite.svg?height=44&color=%23FF6633" height="44" alt="Burp Suite" title="Burp Suite" />
+  <img src="https://github.com/sullo.png?size=200" height="44" alt="Nikto" title="Nikto" />
+  <img src="https://raw.githubusercontent.com/projectdiscovery/nuclei/main/static/nuclei-logo.png" height="44" alt="Nuclei" title="Nuclei" />
+  <img src="https://nmap.org/images/nmap-logo-256x256.png" height="44" alt="Nmap" title="Nmap" />
+  <img src="https://github.com/sqlmapproject.png?size=200" height="44" alt="sqlmap" title="sqlmap" />
+  <img src="https://github.com/zaproxy.png?size=200" height="44" alt="OWASP ZAP" title="OWASP ZAP" />
+  <img src="https://api.iconify.design/simple-icons/qualys.svg?height=44&color=%23ED2E26" height="44" alt="Qualys" title="Qualys" />
+  <img src="https://api.iconify.design/simple-icons/trivy.svg?height=44&color=%231904DA" height="44" alt="Trivy" title="Trivy" />
+  <img src="https://github.com/CISOfy.png?size=200" height="44" alt="Lynis" title="Lynis" />
+  <img src="https://github.com/semgrep.png?size=200" height="44" alt="Semgrep" title="Semgrep" />
+</p>
 
 ---
 
 ## WEB APPLICATION SECURITY
 
-| Tools |
-|---|
-| **Burp Suite** |
-| **OWASP ZAP** |
-| **sqlmap** |
-| **Nuclei** |
-| **ffuf** |
-| **Gobuster** |
-| **Wfuzz** |
-| **Nikto** |
-| **httpx** |
-| **Amass** |
-| **Subfinder** |
-| **Assetfinder** |
-| **Metasploit** |
+<p align="center">
+  <img src="https://api.iconify.design/simple-icons/burpsuite.svg?height=44&color=%23FF6633" height="44" alt="Burp Suite" title="Burp Suite" />
+  <img src="https://github.com/zaproxy.png?size=200" height="44" alt="OWASP ZAP" title="OWASP ZAP" />
+  <img src="https://github.com/sqlmapproject.png?size=200" height="44" alt="sqlmap" title="sqlmap" />
+  <img src="https://raw.githubusercontent.com/projectdiscovery/nuclei/main/static/nuclei-logo.png" height="44" alt="Nuclei" title="Nuclei" />
+  <img src="https://github.com/ffuf.png?size=200" height="44" alt="ffuf" title="ffuf" />
+  <img src="https://github.com/xmendez.png?size=200" height="44" alt="Wfuzz" title="Wfuzz" />
+  <img src="https://github.com/sullo.png?size=200" height="44" alt="Nikto" title="Nikto" />
+  <img src="https://raw.githubusercontent.com/projectdiscovery/httpx/main/static/httpx-logo.png" height="44" alt="httpx" title="httpx" />
+  <img src="https://github.com/owasp-amass.png?size=200" height="44" alt="Amass" title="Amass" />
+  <img src="https://raw.githubusercontent.com/projectdiscovery/subfinder/main/static/subfinder-logo.png" height="44" alt="Subfinder" title="Subfinder" />
+  <img src="https://api.iconify.design/simple-icons/metasploit.svg?height=44&color=%232596CD" height="44" alt="Metasploit" title="Metasploit" />
+</p>
 
 ---
 
 ## DIGITAL FORENSICS
 
-| Tools |
-|---|
-| **Autopsy** |
-| **The Sleuth Kit** |
-| **Volatility** |
-| **FTK Imager** |
-| **Plaso** |
-| **KAPE** |
-| **ExifTool** |
-| **Wireshark** |
-| **Linux Forensics Tools** |
+<p align="center">
+  <img src="https://github.com/sleuthkit.png?size=200" height="44" alt="Autopsy" title="Autopsy" />
+  <img src="https://github.com/volatilityfoundation.png?size=200" height="44" alt="Volatility" title="Volatility" />
+  <img src="https://github.com/log2timeline.png?size=200" height="44" alt="Plaso" title="Plaso" />
+  <img src="https://github.com/exiftool.png?size=200" height="44" alt="ExifTool" title="ExifTool" />
+  <img src="https://api.iconify.design/simple-icons/wireshark.svg?height=44&color=%231679A7" height="44" alt="Wireshark" title="Wireshark" />
+</p>
 
 ---
 
 ## MALWARE ANALYSIS
 
-| Tools |
-|---|
-| **Ghidra** |
-| **IDA Free** |
-| **x64dbg** |
-| **Cuckoo Sandbox** |
-| **YARA** |
-| **PEStudio** |
-| **Procmon** |
-| **Process Explorer** |
-| **FLOSS** |
-| **Detect It Easy (DIE)** |
-| **VirusTotal** |
+<p align="center">
+  <img src="https://api.iconify.design/devicon/ghidra.svg?height=44" height="44" alt="Ghidra" title="Ghidra" />
+  <img src="https://github.com/x64dbg.png?size=200" height="44" alt="x64dbg" title="x64dbg" />
+  <img src="https://github.com/cuckoosandbox.png?size=200" height="44" alt="Cuckoo Sandbox" title="Cuckoo Sandbox" />
+  <img src="https://github.com/VirusTotal.png?size=200" height="44" alt="YARA" title="YARA" />
+  <img src="https://api.iconify.design/simple-icons/virustotal.svg?height=44&color=%23394EFF" height="44" alt="VirusTotal" title="VirusTotal" />
+</p>
 
 ---
 
 ##  CRYPTOGRAPHY & PASSWORD SECURITY
 
-| Tools |
-|---|
-| **Hashcat** |
-| **John the Ripper** |
-| **CyberChef** |
-| **OpenSSL** |
-| **GPG** |
-| **Hash-Identifier** |
-| **Haiti** |
-| **CeWL** |
+<p align="center">
+  <img src="https://api.iconify.design/simple-icons/hashcat.svg?height=44&color=%23000000" height="44" alt="Hashcat" title="Hashcat" />
+  <img src="https://github.com/openwall.png?size=200" height="44" alt="John the Ripper" title="John the Ripper" />
+  <img src="https://github.com/gchq.png?size=200" height="44" alt="CyberChef" title="CyberChef" />
+  <img src="https://api.iconify.design/simple-icons/openssl.svg?height=44&color=%23721412" height="44" alt="OpenSSL" title="OpenSSL" />
+  <img src="https://api.iconify.design/simple-icons/gnuprivacyguard.svg?height=44&color=%230093DD" height="44" alt="GPG" title="GPG" />
+</p>
 
 ---
 
 ## IDENTITY & ACCESS SECURITY
 
-| Tools |
-|---|
-| **AWS IAM** |
-| **AWS STS** |
-| **BloodHound** |
-| **Impacket** |
-| **NetExec** |
-| **Responder** |
-| **Mimikatz** |
-| **PowerView** |
-| **Active Directory** |
-| **LDAPSearch** |
-| **Kerbrute** |
-| **Samba** |
+<p align="center">
+  <img src="https://api.iconify.design/logos/aws-iam.svg?height=44" height="44" alt="AWS IAM" title="AWS IAM" />
+  <img src="https://github.com/SpecterOps.png?size=200" height="44" alt="BloodHound" title="BloodHound" />
+  <img src="https://github.com/fortra.png?size=200" height="44" alt="Impacket" title="Impacket" />
+  <img src="https://github.com/Pennyw0rth.png?size=200" height="44" alt="NetExec" title="NetExec" />
+  <img src="https://github.com/gentilkiwi.png?size=200" height="44" alt="Mimikatz" title="Mimikatz" />
+  <img src="https://github.com/samba-team.png?size=200" height="44" alt="Samba" title="Samba" />
+</p>
 
 ---
 
@@ -309,24 +262,23 @@ I'm a cybersecurity consultant and CTO with an MSc in Computer Science from the 
   <img src="https://skillicons.dev/icons?i=github,git,docker,kubernetes,terraform,aws,jenkins" />
 </p>
 
-| Tools |
-|---|
-| **Docker** |
-| **Kubernetes** |
-| **Terraform** |
-| **Jenkins** |
-| **GitHub Actions** |
-| **AWS CodePipeline** |
-| **AWS CodeBuild** |
-| **Amazon ECR** |
-| **Trivy** |
-| **Semgrep** |
-| **Gitleaks** |
-| **Checkov** |
-| **tfsec** |
-| **SonarQube** |
-| **Snyk** |
-| **OWASP Dependency-Check** |
+<p align="center">
+  <img src="https://api.iconify.design/logos/docker.svg?height=44" height="44" alt="Docker" title="Docker" />
+  <img src="https://api.iconify.design/logos/kubernetes.svg?height=44" height="44" alt="Kubernetes" title="Kubernetes" />
+  <img src="https://api.iconify.design/logos/terraform.svg?height=44" height="44" alt="Terraform" title="Terraform" />
+  <img src="https://api.iconify.design/logos/jenkins.svg?height=44" height="44" alt="Jenkins" title="Jenkins" />
+  <img src="https://api.iconify.design/logos/github-actions.svg?height=44" height="44" alt="GitHub Actions" title="GitHub Actions" />
+  <img src="https://api.iconify.design/logos/aws-codepipeline.svg?height=44" height="44" alt="AWS CodePipeline" title="AWS CodePipeline" />
+  <img src="https://api.iconify.design/logos/aws-codebuild.svg?height=44" height="44" alt="AWS CodeBuild" title="AWS CodeBuild" />
+  <img src="https://api.iconify.design/simple-icons/trivy.svg?height=44&color=%231904DA" height="44" alt="Trivy" title="Trivy" />
+  <img src="https://github.com/semgrep.png?size=200" height="44" alt="Semgrep" title="Semgrep" />
+  <img src="https://github.com/gitleaks.png?size=200" height="44" alt="Gitleaks" title="Gitleaks" />
+  <img src="https://github.com/bridgecrewio.png?size=200" height="44" alt="Checkov" title="Checkov" />
+  <img src="https://github.com/aquasecurity.png?size=200" height="44" alt="tfsec" title="tfsec" />
+  <img src="https://api.iconify.design/logos/sonarqube.svg?height=44" height="44" alt="SonarQube" title="SonarQube" />
+  <img src="https://api.iconify.design/logos/snyk.svg?height=44" height="44" alt="Snyk" title="Snyk" />
+  <img src="https://api.iconify.design/simple-icons/owasp.svg?height=44&color=%23000000" height="44" alt="OWASP Dependency-Check" title="OWASP Dependency-Check" />
+</p>
 
 ---
 
@@ -336,20 +288,17 @@ I'm a cybersecurity consultant and CTO with an MSc in Computer Science from the 
   <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
 </p>
 
-| Tools |
-|---|
-| **Docker** |
-| **Kubernetes** |
-| **Trivy** |
-| **Falco** |
-| **Kube-bench** |
-| **Kube-hunter** |
-| **Kubescape** |
-| **Kyverno** |
-| **OPA / Gatekeeper** |
-| **Amazon ECR** |
-| **Amazon ECS** |
-| **AWS Fargate** |
+<p align="center">
+  <img src="https://api.iconify.design/logos/docker.svg?height=44" height="44" alt="Docker" title="Docker" />
+  <img src="https://api.iconify.design/logos/kubernetes.svg?height=44" height="44" alt="Kubernetes" title="Kubernetes" />
+  <img src="https://api.iconify.design/simple-icons/trivy.svg?height=44&color=%231904DA" height="44" alt="Trivy" title="Trivy" />
+  <img src="https://api.iconify.design/simple-icons/falco.svg?height=44&color=%2300AEC7" height="44" alt="Falco" title="Falco" />
+  <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/kubescape/icon/color/kubescape-icon-color.svg" height="44" alt="Kubescape" title="Kubescape" />
+  <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/kyverno/icon/color/kyverno-icon-color.svg" height="44" alt="Kyverno" title="Kyverno" />
+  <img src="https://github.com/open-policy-agent.png?size=200" height="44" alt="OPA / Gatekeeper" title="OPA / Gatekeeper" />
+  <img src="https://api.iconify.design/simple-icons/amazonecs.svg?height=44&color=%23FF9900" height="44" alt="Amazon ECS" title="Amazon ECS" />
+  <img src="https://api.iconify.design/logos/aws-fargate.svg?height=44" height="44" alt="AWS Fargate" title="AWS Fargate" />
+</p>
 
 ---
 
@@ -359,37 +308,28 @@ I'm a cybersecurity consultant and CTO with an MSc in Computer Science from the 
   <img src="https://skillicons.dev/icons?i=terraform,ansible,aws,linux" />
 </p>
 
-| Tools |
-|---|
-| **Terraform** |
-| **AWS CloudFormation** |
-| **Checkov** |
-| **tfsec** |
-| **Terrascan** |
-| **InSpec** |
-| **Ansible** |
-| **Lynis** |
-| **OpenSCAP** |
+<p align="center">
+  <img src="https://api.iconify.design/logos/terraform.svg?height=44" height="44" alt="Terraform" title="Terraform" />
+  <img src="https://api.iconify.design/logos/aws-cloudformation.svg?height=44" height="44" alt="AWS CloudFormation" title="AWS CloudFormation" />
+  <img src="https://github.com/bridgecrewio.png?size=200" height="44" alt="Checkov" title="Checkov" />
+  <img src="https://github.com/aquasecurity.png?size=200" height="44" alt="tfsec" title="tfsec" />
+  <img src="https://api.iconify.design/simple-icons/chef.svg?height=44&color=%23F09820" height="44" alt="InSpec" title="InSpec" />
+  <img src="https://api.iconify.design/logos/ansible.svg?height=44" height="44" alt="Ansible" title="Ansible" />
+  <img src="https://github.com/CISOfy.png?size=200" height="44" alt="Lynis" title="Lynis" />
+</p>
 
 ---
 
 ## OSINT & RECONNAISSANCE
 
-| Tools |
-|---|
-| **Maltego** |
-| **theHarvester** |
-| **Sherlock** |
-| **Amass** |
-| **Subfinder** |
-| **Assetfinder** |
-| **SpiderFoot** |
-| **Recon-ng** |
-| **Shodan** |
-| **Censys** |
-| **WHOIS** |
-| **DNSRecon** |
-| **DNSdumpster** |
+<p align="center">
+  <img src="https://github.com/MaltegoTech.png?size=200" height="44" alt="Maltego" title="Maltego" />
+  <img src="https://github.com/sherlock-project.png?size=200" height="44" alt="Sherlock" title="Sherlock" />
+  <img src="https://github.com/owasp-amass.png?size=200" height="44" alt="Amass" title="Amass" />
+  <img src="https://raw.githubusercontent.com/projectdiscovery/subfinder/main/static/subfinder-logo.png" height="44" alt="Subfinder" title="Subfinder" />
+  <img src="https://github.com/smicallef.png?size=200" height="44" alt="SpiderFoot" title="SpiderFoot" />
+  <img src="https://github.com/censys.png?size=200" height="44" alt="Censys" title="Censys" />
+</p>
 
 ---
 
@@ -399,36 +339,25 @@ I'm a cybersecurity consultant and CTO with an MSc in Computer Science from the 
   <img src="https://skillicons.dev/icons?i=linux,bash,python" />
 </p>
 
-| Tools |
-|---|
-| **Kali Linux** |
-| **Parrot Security OS** |
-| **AppArmor** |
-| **SELinux** |
-| **iptables** |
-| **nftables** |
-| **Lynis** |
-| **tcpdump** |
-| **Wireshark** |
-| **Netcat** |
-| **OpenSSL** |
-| **Fail2ban** |
+<p align="center">
+  <img src="https://api.iconify.design/simple-icons/kalilinux.svg?height=44&color=%23557C94" height="44" alt="Kali Linux" title="Kali Linux" />
+  <img src="https://api.iconify.design/simple-icons/parrotsecurity.svg?height=44&color=%2315E0ED" height="44" alt="Parrot Security OS" title="Parrot Security OS" />
+  <img src="https://github.com/SELinuxProject.png?size=200" height="44" alt="SELinux" title="SELinux" />
+  <img src="https://github.com/CISOfy.png?size=200" height="44" alt="Lynis" title="Lynis" />
+  <img src="https://api.iconify.design/simple-icons/wireshark.svg?height=44&color=%231679A7" height="44" alt="Wireshark" title="Wireshark" />
+  <img src="https://api.iconify.design/simple-icons/openssl.svg?height=44&color=%23721412" height="44" alt="OpenSSL" title="OpenSSL" />
+  <img src="https://github.com/fail2ban.png?size=200" height="44" alt="Fail2ban" title="Fail2ban" />
+</p>
 
 ---
 
 ## WIRELESS SECURITY
 
-| Tools |
-|---|
-| **Aircrack-ng** |
-| **Kismet** |
-| **Airodump-ng** |
-| **Aireplay-ng** |
-| **Airgeddon** |
-| **Wifite** |
-| **Bettercap** |
-| **hcxdumptool** |
-| **hcxtools** |
+<p align="center">
+  <img src="https://github.com/aircrack-ng.png?size=200" height="44" alt="Aircrack-ng" title="Aircrack-ng" />
+  <img src="https://github.com/kismetwireless.png?size=200" height="44" alt="Kismet" title="Kismet" />
+  <img src="https://github.com/bettercap.png?size=200" height="44" alt="Bettercap" title="Bettercap" />
+</p>
 
 ---
 
@@ -437,101 +366,61 @@ I'm a cybersecurity consultant and CTO with an MSc in Computer Science from the 
 
 **Cloud & Infrastructure**
 
-| Certification | Issuer |
-|---|---|
-| AWS Certified Security – Specialty | Amazon Web Services |
-| AWS Certified CloudOps Engineer – Associate | Amazon Web Services |
-| AWS Certified Cloud Practitioner | Amazon Web Services |
-| AWS Certified AI Practitioner | Amazon Web Services |
-| Microsoft Certified: Azure Fundamentals | Microsoft |
-| Oracle Cloud Infrastructure Certified Multicloud Architect Professional | Oracle |
-| KCNA: Kubernetes and Cloud Native Associate | The Linux Foundation / CNCF |
+<p align="center">
+<a href="https://www.credly.com/badges/4dd1327d-3237-4177-8684-864952c20b28"><img src="https://images.credly.com/size/340x340/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" height="110" alt="AWS — Security Specialty" title="AWS — Security Specialty" /></a>
+<a href="https://www.credly.com/badges/61414dcc-c1f3-4e6f-bb23-8807492a5fda"><img src="https://images.credly.com/size/340x340/images/88a6405e-0f26-442a-95ed-f9b9db4c857e/blob" height="110" alt="AWS — CloudOps Associate" title="AWS — CloudOps Associate" /></a>
+<a href="https://www.credly.com/badges/60ec279e-feff-4bdc-89fa-038430356489"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="110" alt="AWS — Cloud Practitioner" title="AWS — Cloud Practitioner" /></a>
+<a href="https://www.credly.com/badges/e0397320-aeb4-4bc5-a8fb-4423465987f6"><img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" height="110" alt="AWS — AI Practitioner" title="AWS — AI Practitioner" /></a>
+<a href="https://www.credly.com/badges/4f9dbb7b-3cae-45a1-85d0-37e875f2e79f"><img src="https://images.credly.com/size/340x340/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" height="110" alt="CNCF — KCNA" title="CNCF — KCNA" /></a>
+<a href="https://www.credly.com/badges/6db0c334-9244-47eb-a7fd-9759019ea261"><img src="https://images.credly.com/size/340x340/images/e3c001fd-161d-433a-a7a4-049556d6112d/blob" height="110" alt="Aviatrix — Multicloud Network Associate" title="Aviatrix — Multicloud Network Associate" /></a>
+</p>
 
-
-<p>
-<a href="https://www.credly.com/badges/4dd1327d-3237-4177-8684-864952c20b28"><img src="https://img.shields.io/badge/AWS-Security%20Specialty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
-<a href="https://www.credly.com/badges/61414dcc-c1f3-4e6f-bb23-8807492a5fda"><img src="https://img.shields.io/badge/AWS-CloudOps%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
-<a href="https://www.credly.com/badges/60ec279e-feff-4bdc-89fa-038430356489"><img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
-<a href="https://www.credly.com/badges/e0397320-aeb4-4bc5-a8fb-4423465987f6"><img src="https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
-<br>
+<p align="center">
 <img src="https://img.shields.io/badge/Microsoft-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 <a href="https://catalog-education.oracle.com/pls/certview/certtracker"><img src="https://img.shields.io/badge/Oracle-Multicloud%20Architect%20Pro-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
-<a href="https://www.credly.com/badges/4f9dbb7b-3cae-45a1-85d0-37e875f2e79f"><img src="https://img.shields.io/badge/CNCF-KCNA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Oracle-Architect%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-MultiCloud%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Aviatrix-Multicloud Network Associate-2E3440?style=for-the-badge" />
+<br>
 </p>
 
 
 **Security Certifications**
 
-| Certification | Issuer |
-|---|---|
-| Certified in Cybersecurity (CC) | ISC2 |
-| Security+ ce | CompTIA |
-| Cybersecurity Professional Certificate | Google |
-| CyberOps Associate | Cisco |
-| Ethical Hacker | Cisco |
-| Certified Associate in Cybersecurity | Fortinet |
-<p>
+<p align="center">
+<a href="https://www.credly.com/badges/65cff1b4-737d-4127-960f-46d08ac8d9fe"><img src="https://images.credly.com/size/340x340/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" height="110" alt="Cisco — CyberOps Associate" title="Cisco — CyberOps Associate" /></a>
+<a href="https://www.credly.com/badges/9e64b692-efec-4c44-a269-c2dd749e409c"><img src="https://images.credly.com/size/340x340/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" height="110" alt="Cisco — Ethical Hacker" title="Cisco — Ethical Hacker" /></a>
+</p>
+
+<p align="center">
 <img src="https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-0662B0?style=for-the-badge" />
 <img src="https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Google-Cybersecurity%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<br>
-<a href="https://www.credly.com/badges/65cff1b4-737d-4127-960f-46d08ac8d9fe"><img src="https://img.shields.io/badge/Cisco-CyberOps%20Associate-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a>
-<a href="https://www.credly.com/badges/9e64b692-efec-4c44-a269-c2dd749e409c"><img src="https://img.shields.io/badge/Cisco-Ethical%20Hacker-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Fortinet-Associate%20Cybersecurity-EE3124?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SECOPS Group-Certified Social Engineering Defense Practitioner(CSEDP)-0662B0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CyberWarFare Labs-MultiCloud Red Team Analyst (MCRTA)-EE3124?style=for-the-badge" />
 </p>
 
 **Network & DevOps**
 
-| Certification | Issuer |
-|---|---|
-| DevNet Associate | Cisco |
-| AutoOps+ | CompTIA |
-| Certified Network Security Practitioner (CNSP) | The SecOps Group |
-<p>
-<a href="https://www.credly.com/badges/cdf1970d-a1fd-49d0-8c75-b2afdfe635b2"><img src="https://img.shields.io/badge/Cisco-DevNet%20Associate-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a>
+<p align="center">
+<a href="https://www.credly.com/badges/cdf1970d-a1fd-49d0-8c75-b2afdfe635b2"><img src="https://images.credly.com/size/340x340/images/35985f2b-38d6-4b6f-8e63-42b17d3b5c69/DEVASC_Learning_Badge.png" height="110" alt="Cisco — DevNet Associate" title="Cisco — DevNet Associate" /></a>
+</p>
+
+<p align="center">
 <img src="https://img.shields.io/badge/SecOps%20Group-CNSP-2E3440?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CompTIA-AutoOps+%2B-C8202F?style=for-the-badge" />
 </p>
 
 **Governance, Risk & Compliance**
 
-| Certification | Issuer |
-|---|---|
-| ISO/IEC 27001:2022 Lead Auditor | Mastermind |
-| ISO/IEC 27701:2025 Lead Auditor | Mastermind |
-| ISO/IEC 42001:2023 Lead Auditor | Mastermind |
-<p>
-<a href="https://www.credly.com/badges/35356536-b5e5-4d36-8951-c3f897676c33"><img src="https://img.shields.io/badge/ISO%2FIEC%2027001%3A2022-Lead%20Auditor-0052CC?style=for-the-badge" /></a>
-<a href="https://www.credly.com/badges/837a204d-69ba-4f3c-a3bf-fc3303cada26"><img src="https://img.shields.io/badge/ISO%2FIEC%2027701%3A2025-Lead%20Auditor-0052CC?style=for-the-badge" /></a>
-<a href="https://www.credly.com/badges/3aa61acd-299c-4355-91d2-61e0fe315c86"><img src="https://img.shields.io/badge/ISO%2FIEC%2042001%3A2023-Lead%20Auditor-0052CC?style=for-the-badge" /></a>
+<p align="center">
+<a href="https://www.credly.com/badges/35356536-b5e5-4d36-8951-c3f897676c33"><img src="https://images.credly.com/size/340x340/images/1a92e79e-4b58-44ae-b4bd-1f63e83c5294/blob" height="110" alt="ISO/IEC 27001:2022 — Lead Auditor" title="ISO/IEC 27001:2022 — Lead Auditor" /></a>
+<a href="https://www.credly.com/badges/837a204d-69ba-4f3c-a3bf-fc3303cada26"><img src="https://images.credly.com/size/340x340/images/730bda7d-a561-4213-94dc-8dcaa0f83aa4/blob" height="110" alt="ISO/IEC 27701:2025 — Lead Auditor" title="ISO/IEC 27701:2025 — Lead Auditor" /></a>
+<a href="https://www.credly.com/badges/3aa61acd-299c-4355-91d2-61e0fe315c86"><img src="https://images.credly.com/size/340x340/images/a2684117-2e56-45f9-b736-2adbbe187a60/blob" height="110" alt="ISO/IEC 42001:2023 — Lead Auditor" title="ISO/IEC 42001:2023 — Lead Auditor" /></a>
 </p>
-
-**Additional Cloud Architecture**
-
-| Certification | Issuer |
-|---|---|
-| Oracle Cloud Infrastructure Certified Architect Associate | Oracle |
-| Aviatrix Multicloud Network Associate | Aviatrix |
-<p>
-<img src="https://img.shields.io/badge/Oracle-Architect%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-<a href="https://www.credly.com/badges/6db0c334-9244-47eb-a7fd-9759019ea261"><img src="https://img.shields.io/badge/Aviatrix-Multicloud%20Network%20Associate-00A99D?style=for-the-badge" /></a>
-</p>
-<br>
-
-### What I've built so far
-
--  **Serverless Break-Glass Access System** - emergency access control with least-privilege, audit-logged IAM patterns
--  **Mini-SIEM** - lightweight security event ingestion, correlation, and visualization pipeline
--  **VulnScan** - web vulnerability scanner: open ports, missing headers, weak SSL ciphers, automated PDF/HTML reporting
--  **Secure Serverless Data Pipeline** - encrypted data transfer & translation on AWS, provisioned via Terraform
--  **Weather API Dashboard** - automated data capture and storage pipeline (Python + S3)
-
-<br>
-
-### Currently
-
-- Leading security strategy and consulting engagements as CTO at ParoCyber
-- Coordinating technical programs at Akwannya Hub
-- Building out detection-engineering and access-control tooling across cloud and on-prem environments
 
 <br>
 
