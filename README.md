@@ -4,7 +4,7 @@
 
 <br>
 
-<i>"Live as if you were to die tomorrow. Learn as if you were to live forever." — Mahatma Gandhi</i>
+<i>"Live as if you were to die tomorrow. Learn as if you were to live forever." - Mahatma Gandhi</i>
 
 <br><br>
 
@@ -19,26 +19,16 @@
 
 ### 🔐 About me
 
-I'm a cybersecurity consultant and CTO with an MSc in Computer Science from the University of Ghana, where my dissertation focused on **browser fingerprinting**. I work across the full security lifecycle — offense, defense, cloud architecture, and governance — rather than living in one lane. Currently I lead security strategy as **Cybersecurity Consultant/CTO at ParoCyber** and coordinate technical programs at **Akwannya Hub**, building on years running IT infrastructure and freelance security consulting.
+I'm a cybersecurity consultant and CTO with an MSc in Computer Science from the University of Ghana, where my dissertation focused on **browser fingerprinting** in Cybersecurity. I work across the full security lifecycle - offense, defense, cloud architecture, and governance - rather than living in one lane. Currently I lead security strategy as **Cybersecurity Consultant/CTO at ParoCyber** and coordinate technical programs at **Akwannya Hub**, building on years running IT infrastructure and freelance security consulting.
 
-I hold industry certifications spanning red team operations, blue team defense, multi-cloud architecture, and ISO/IEC governance — because understanding how systems are attacked is what makes you good at defending them, and understanding how they're audited is what makes the defense provable.
+I hold industry certifications spanning red team operations, blue team defense, multi-cloud architecture, and ISO/IEC governance - because understanding how systems are attacked is what makes you good at defending them, and understanding how they're audited is what makes the defense provable.
 
 <br>
 
-### 💼 Experience
-
-<table>
-<tr><td>🧑‍💻</td><td><b>Cybersecurity Consultant / CTO</b></td><td>ParoCyber</td><td><i>Oct 2024 – Present</i></td></tr>
-<tr><td>🧑‍🏫</td><td><b>Programs Coordinator</b></td><td>Akwannya Hub</td><td><i>Dec 2025 – Present</i></td></tr>
-<tr><td>🕵️</td><td><b>IT/Cybersecurity Consultant</b></td><td>Freelance</td><td><i>Oct 2022 – Sep 2024</i></td></tr>
-<tr><td>🖥️</td><td><b>IT Resource Center Manager</b></td><td>Ghana Education Service</td><td><i>Oct 2018 – Sep 2022</i></td></tr>
-<tr><td>🛠️</td><td><b>IT Systems Admin / Tutor</b></td><td>Ghana Library Authority</td><td><i>Sep 2017 – Aug 2018</i></td></tr>
-</table>
-
 ### 🎓 Education
 
-- 🎓 **MSc, Computer Science (Cybersecurity)** — University of Ghana, Legon *(2022–2024)* — Dissertation: *Browser Fingerprinting*
-- 🎓 **BSc, Information Technology** — BlueCrest University College *(2013–2017)*
+- 🎓 **MSc, Computer Science (Cybersecurity)** - University of Ghana, Legon *(2022–2024)* 
+- 🎓 **BSc, Information Technology** - BlueCrest University College *(2013–2017)*
 
 <br>
 
@@ -97,9 +87,7 @@ I hold industry certifications spanning red team operations, blue team defense, 
 
 <br>
 
-### 🏅 Top 20 Certifications
-
-*Selected for global industry recognition, out of 30+ held.*
+### 🏅 Certifications
 
 **☁️ Cloud & Infrastructure**
 
@@ -113,7 +101,7 @@ I hold industry certifications spanning red team operations, blue team defense, 
 | Oracle Cloud Infrastructure Certified Multicloud Architect Professional | Oracle |
 | KCNA: Kubernetes and Cloud Native Associate | The Linux Foundation / CNCF |
 
-**🛡️ Security Fundamentals & Vendor Certifications**
+**🛡️ Security Vendor Certifications**
 
 | Certification | Issuer |
 |---|---|
@@ -129,6 +117,7 @@ I hold industry certifications spanning red team operations, blue team defense, 
 | Certification | Issuer |
 |---|---|
 | DevNet Associate | Cisco |
+| AutoOps+ | CompTIA |
 | Certified Network Security Practitioner (CNSP) | The SecOps Group |
 
 **📋 Governance, Risk & Compliance**
@@ -150,11 +139,11 @@ I hold industry certifications spanning red team operations, blue team defense, 
 
 ### 🛠️ What I build
 
-- 🚪 **Serverless Break-Glass Access System** — emergency access control with least-privilege, audit-logged IAM patterns
-- 🔍 **Mini-SIEM** — lightweight security event ingestion, correlation, and visualization pipeline
-- 🕷️ **VulnScan** — web vulnerability scanner: open ports, missing headers, weak SSL ciphers, automated PDF/HTML reporting
-- 🔄 **Secure Serverless Data Pipeline** — encrypted data transfer & translation on AWS, provisioned via Terraform
-- 🌦️ **Weather API Dashboard** — automated data capture and storage pipeline (Python + S3)
+- 🚪 **Serverless Break-Glass Access System** - emergency access control with least-privilege, audit-logged IAM patterns
+- 🔍 **Mini-SIEM** - lightweight security event ingestion, correlation, and visualization pipeline
+- 🕷️ **VulnScan** - web vulnerability scanner: open ports, missing headers, weak SSL ciphers, automated PDF/HTML reporting
+- 🔄 **Secure Serverless Data Pipeline** - encrypted data transfer & translation on AWS, provisioned via Terraform
+- 🌦️ **Weather API Dashboard** - automated data capture and storage pipeline (Python + S3)
 
 <br>
 
