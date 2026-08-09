@@ -19,9 +19,7 @@
 
 ### About me
 
-I'm a cybersecurity consultant and CTO with an MSc in Computer Science from the University of Ghana, where my dissertation focused on **browser fingerprinting** in Cybersecurity. I work across the full security lifecycle - offense, defense, cloud architecture, and governance - rather than living in one lane. Currently I lead security strategy as **Cybersecurity Consultant/CTO at ParoCyber** and coordinate technical programs at **Akwannya Hub**, building on years running IT infrastructure and freelance security consulting.
-
-I hold industry certifications spanning red team operations, blue team defense, multi-cloud architecture, and ISO/IEC governance - because understanding how systems are attacked is what makes you good at defending them, and understanding how they're audited is what makes the defense provable.
+I'm a cybersecurity consultant and CTO with an MSc in Computer Science from the University of Ghana, where my dissertation focused on **browser fingerprinting** in Cybersecurity. I work across the full security lifecycle - offense, defense, cloud architecture, and governance - rather than living in one lane, building on years running IT infrastructure and security consulting.
 
 <br>
 
