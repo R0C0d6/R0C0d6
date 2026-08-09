@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Cybersecurity+Consultant+%7C+CTO;Red+Team+%E2%80%A2+Blue+Team+%E2%80%A2+Cloud+%E2%80%A2+GRC;MSc+Computer+Science+(Cybersecurity);Building+Provable+Security%2C+Not+Just+Claimed+Security" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Cybersecurity+Consultant;Red+Team+%E2%80%A2+Blue+Team+%E2%80%A2+Cloud+%E2%80%A2+GRC;MSc+Computer+Science;Building+Provable+Security" alt="Typing SVG" />
 
 <br>
+
 
 <i>"Live as if you were to die tomorrow. Learn as if you were to live forever." - Mahatma Gandhi</i>
 
