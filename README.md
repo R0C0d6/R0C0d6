@@ -19,7 +19,7 @@
 
 ### About me
 
-I'm a cybersecurity consultant and CTO with an MSc in Computer Science from the University of Ghana, where my dissertation focused on **browser fingerprinting** in Cybersecurity. I work across the full security lifecycle - offense, defense, cloud architecture, and governance - rather than living in one lane, building on years running IT infrastructure and security consulting.
+Cybersecurity and cloud professional passionate about building secure, scalable solutions and empowering Africa’s next generation of technology professionals. Deeply focused on cloud security, cybersecurity education, hands-on engineering, and community building. I work across the full security lifecycle - offense, defense, cloud architecture, and governance.
 
 <br>
 
