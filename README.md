@@ -17,7 +17,7 @@
 
 ---
 
-### 🔐 About me
+### About me
 
 I'm a cybersecurity consultant and CTO with an MSc in Computer Science from the University of Ghana, where my dissertation focused on **browser fingerprinting** in Cybersecurity. I work across the full security lifecycle - offense, defense, cloud architecture, and governance - rather than living in one lane. Currently I lead security strategy as **Cybersecurity Consultant/CTO at ParoCyber** and coordinate technical programs at **Akwannya Hub**, building on years running IT infrastructure and freelance security consulting.
 
@@ -25,16 +25,16 @@ I hold industry certifications spanning red team operations, blue team defense, 
 
 <br>
 
-### 🎓 Education
+### Education
 
-- 🎓 **MSc, Computer Science (Cybersecurity)** - University of Ghana, Legon *(2022–2024)* 
-- 🎓 **BSc, Information Technology** - BlueCrest University College *(2013–2017)*
+-  **MSc, Computer Science (Cybersecurity)** - University of Ghana, Legon *(2022–2024)* 
+-  **BSc, Information Technology** - BlueCrest University College *(2013–2017)*
 
 <br>
 
-### 🧰 Domains & Skills
+### Domains & Skills
 
-**⚔️ Offensive Security / Red Team**
+** Offensive Security / Red Team**
 <p>
 <img src="https://img.shields.io/badge/Red%20Team%20Operations-8B0000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Multi--Cloud%20Red%20Team-8B0000?style=for-the-badge" />
@@ -42,7 +42,7 @@ I hold industry certifications spanning red team operations, blue team defense, 
 <img src="https://img.shields.io/badge/Ethical%20Hacking-8B0000?style=for-the-badge" />
 </p>
 
-**🛡️ Defensive Security / Blue Team**
+** Defensive Security / Blue Team**
 <p>
 <img src="https://img.shields.io/badge/SOC%20Operations-1E3A5F?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Threat%20Hunting-1E3A5F?style=for-the-badge" />
@@ -51,7 +51,7 @@ I hold industry certifications spanning red team operations, blue team defense, 
 <img src="https://img.shields.io/badge/CyberOps-1E3A5F?style=for-the-badge" />
 </p>
 
-**🌐 Network & Application Security**
+** Network & Application Security**
 <p>
 <img src="https://img.shields.io/badge/Network%20Security-2596CD?style=for-the-badge" />
 <img src="https://img.shields.io/badge/DevSecOps-2596CD?style=for-the-badge" />
@@ -59,7 +59,7 @@ I hold industry certifications spanning red team operations, blue team defense, 
 <img src="https://img.shields.io/badge/AI%20Security%20%26%20Risk-2596CD?style=for-the-badge" />
 </p>
 
-**☁️ Cloud & Infrastructure**
+** Cloud & Infrastructure**
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
@@ -69,7 +69,7 @@ I hold industry certifications spanning red team operations, blue team defense, 
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
-**📋 Governance, Risk & Compliance**
+** Governance, Risk & Compliance**
 <p>
 <img src="https://img.shields.io/badge/ISO%2FIEC%2027001-0052CC?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ISO%2FIEC%2027701-0052CC?style=for-the-badge" />
@@ -77,7 +77,7 @@ I hold industry certifications spanning red team operations, blue team defense, 
 <img src="https://img.shields.io/badge/Threat%20Intelligence-0052CC?style=for-the-badge" />
 </p>
 
-**💻 Languages & Scripting**
+** Languages & Scripting**
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
@@ -87,9 +87,9 @@ I hold industry certifications spanning red team operations, blue team defense, 
 
 <br>
 
-### 🏅 Certifications
+###  Certifications
 
-**☁️ Cloud & Infrastructure**
+** Cloud & Infrastructure**
 
 | Certification | Issuer |
 |---|---|
@@ -114,7 +114,7 @@ I hold industry certifications spanning red team operations, blue team defense, 
 </p>
 
 
-**🛡️ Security Vendor Certifications**
+** Security Vendor Certifications**
 
 | Certification | Issuer |
 |---|---|
@@ -124,43 +124,64 @@ I hold industry certifications spanning red team operations, blue team defense, 
 | CyberOps Associate | Cisco |
 | Ethical Hacker | Cisco |
 | Certified Associate in Cybersecurity | Fortinet |
+<p>
+<img src="https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-0662B0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Google-Cybersecurity%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<br>
+<a href="https://www.credly.com/badges/65cff1b4-737d-4127-960f-46d08ac8d9fe"><img src="https://img.shields.io/badge/Cisco-CyberOps%20Associate-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/9e64b692-efec-4c44-a269-c2dd749e409c"><img src="https://img.shields.io/badge/Cisco-Ethical%20Hacker-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Fortinet-Associate%20Cybersecurity-EE3124?style=for-the-badge" />
+</p>
 
-**🌐 Network & DevOps**
+** Network & DevOps**
 
 | Certification | Issuer |
 |---|---|
 | DevNet Associate | Cisco |
 | AutoOps+ | CompTIA |
 | Certified Network Security Practitioner (CNSP) | The SecOps Group |
+<p>
+<a href="https://www.credly.com/badges/cdf1970d-a1fd-49d0-8c75-b2afdfe635b2"><img src="https://img.shields.io/badge/Cisco-DevNet%20Associate-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/SecOps%20Group-CNSP-2E3440?style=for-the-badge" />
+</p>
 
-**📋 Governance, Risk & Compliance**
+** Governance, Risk & Compliance**
 
 | Certification | Issuer |
 |---|---|
 | ISO/IEC 27001:2022 Lead Auditor | Mastermind |
 | ISO/IEC 27701:2025 Lead Auditor | Mastermind |
 | ISO/IEC 42001:2023 Lead Auditor | Mastermind |
+<p>
+<a href="https://www.credly.com/badges/35356536-b5e5-4d36-8951-c3f897676c33"><img src="https://img.shields.io/badge/ISO%2FIEC%2027001%3A2022-Lead%20Auditor-0052CC?style=for-the-badge" /></a>
+<a href="https://www.credly.com/badges/837a204d-69ba-4f3c-a3bf-fc3303cada26"><img src="https://img.shields.io/badge/ISO%2FIEC%2027701%3A2025-Lead%20Auditor-0052CC?style=for-the-badge" /></a>
+<a href="https://www.credly.com/badges/3aa61acd-299c-4355-91d2-61e0fe315c86"><img src="https://img.shields.io/badge/ISO%2FIEC%2042001%3A2023-Lead%20Auditor-0052CC?style=for-the-badge" /></a>
+</p>
 
-**🏗️ Additional Cloud Architecture**
+** Additional Cloud Architecture**
 
 | Certification | Issuer |
 |---|---|
 | Oracle Cloud Infrastructure Certified Architect Associate | Oracle |
 | Aviatrix Multicloud Network Associate | Aviatrix |
+<p>
+<img src="https://img.shields.io/badge/Oracle-Architect%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<a href="https://www.credly.com/badges/6db0c334-9244-47eb-a7fd-9759019ea261"><img src="https://img.shields.io/badge/Aviatrix-Multicloud%20Network%20Associate-00A99D?style=for-the-badge" /></a>
+</p>
+<br>
+
+### What I've built so far
+
+-  **Serverless Break-Glass Access System** - emergency access control with least-privilege, audit-logged IAM patterns
+-  **Mini-SIEM** - lightweight security event ingestion, correlation, and visualization pipeline
+-  **VulnScan** - web vulnerability scanner: open ports, missing headers, weak SSL ciphers, automated PDF/HTML reporting
+-  **Secure Serverless Data Pipeline** - encrypted data transfer & translation on AWS, provisioned via Terraform
+-  **Weather API Dashboard** - automated data capture and storage pipeline (Python + S3)
 
 <br>
 
-### 🛠️ What I build
-
-- 🚪 **Serverless Break-Glass Access System** - emergency access control with least-privilege, audit-logged IAM patterns
-- 🔍 **Mini-SIEM** - lightweight security event ingestion, correlation, and visualization pipeline
-- 🕷️ **VulnScan** - web vulnerability scanner: open ports, missing headers, weak SSL ciphers, automated PDF/HTML reporting
-- 🔄 **Secure Serverless Data Pipeline** - encrypted data transfer & translation on AWS, provisioned via Terraform
-- 🌦️ **Weather API Dashboard** - automated data capture and storage pipeline (Python + S3)
-
-<br>
-
-### 📌 Currently
+### Currently
 
 - Leading security strategy and consulting engagements as CTO at ParoCyber
 - Coordinating technical programs at Akwannya Hub
@@ -168,7 +189,7 @@ I hold industry certifications spanning red team operations, blue team defense, 
 
 <br>
 
-### 📫 Reach me
+###  Reach me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rolandmawuliawuku"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
