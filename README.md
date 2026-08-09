@@ -173,5 +173,6 @@ I hold industry certifications spanning red team operations, blue team defense, 
 <br><br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=R0C0d6&theme=darkhub&no-frame=true&row=1&column=6" alt="Trophies" />
+<img src="awukurolandmawuli@gmail.com&theme=white&no-frame=true&row=1&column=6" alt="Trophies" />
 
 </div>
