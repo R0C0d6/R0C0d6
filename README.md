@@ -159,6 +159,7 @@ I hold industry certifications spanning red team operations, blue team defense, 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rolandmawuliawuku"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="awukurolandmawuli@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -173,5 +174,5 @@ I hold industry certifications spanning red team operations, blue team defense, 
 <br><br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=R0C0d6&theme=darkhub&no-frame=true&row=1&column=6" alt="Trophies" />
-<a href="awukurolandmawuli@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 </div>
