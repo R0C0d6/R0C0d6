@@ -165,7 +165,7 @@ I hold industry certifications spanning red team operations, blue team defense, 
 ---
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=R0C0d6&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400" alt="Roland's GitHub Stats" height="165"/>
+
 <img src="https://streak-stats.demolab.com/?user=R0C0d6&theme=dark&hide_border=true" alt="Roland's GitHub Streak" height="165"/>
 
 <br><br>
