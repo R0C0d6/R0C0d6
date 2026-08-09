@@ -101,6 +101,19 @@ I hold industry certifications spanning red team operations, blue team defense, 
 | Oracle Cloud Infrastructure Certified Multicloud Architect Professional | Oracle |
 | KCNA: Kubernetes and Cloud Native Associate | The Linux Foundation / CNCF |
 
+
+<p>
+<a href="https://www.credly.com/badges/4dd1327d-3237-4177-8684-864952c20b28"><img src="https://img.shields.io/badge/AWS-Security%20Specialty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/61414dcc-c1f3-4e6f-bb23-8807492a5fda"><img src="https://img.shields.io/badge/AWS-CloudOps%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/60ec279e-feff-4bdc-89fa-038430356489"><img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/e0397320-aeb4-4bc5-a8fb-4423465987f6"><img src="https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
+<br>
+<img src="https://img.shields.io/badge/Microsoft-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<a href="https://catalog-education.oracle.com/pls/certview/certtracker"><img src="https://img.shields.io/badge/Oracle-Multicloud%20Architect%20Pro-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/4f9dbb7b-3cae-45a1-85d0-37e875f2e79f"><img src="https://img.shields.io/badge/CNCF-KCNA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
+</p>
+
+
 **🛡️ Security Vendor Certifications**
 
 | Certification | Issuer |
