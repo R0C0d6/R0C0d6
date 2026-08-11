@@ -25,8 +25,8 @@ Cybersecurity and cloud professional passionate about building secure, scalable 
 
 ### Education
 
--  **MSc, Computer Science (Cybersecurity)** - University of Ghana, Legon *(2022–2024)* 
--  **BSc, Information Technology** - BlueCrest University College *(2013–2017)*
+-  **MSc, Computer Science (Cybersecurity)** - University of Ghana, Legon** 
+-  **BSc, Information Technology** - BlueCrest University College**
 
 <br>
 
